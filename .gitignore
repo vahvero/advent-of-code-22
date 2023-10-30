@@ -15,3 +15,4 @@ Cargo.lock
 /target
 
 true_input.txt
+.vscode/
